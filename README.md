@@ -1,11 +1,11 @@
 # pengalaman-belajar
 
-17 Februari 2024<br>
+**17 Februari 2024**<br>
 Belajar Dasar Git dengan GitHub. (Progres 40%)
 * Belajar tentang apa itu Java dan alasan menggunakannya.
 * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
 
-15 Juni 2021<br>
+**15 Juni 2021**<br>
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
 * Belajar control flow dalam Java, seperti perulangan dan percabangan.
